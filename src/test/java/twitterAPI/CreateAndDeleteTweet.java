@@ -10,6 +10,7 @@ import io.restassured.response.Response;
 
 public class CreateAndDeleteTweet {
 	
+	//THese are dummy keys
 	String ConsumerKey="dfdgadgadggdg";
 	String ConsumerSecret="dsfasdfasfafadg";
 	String Token="dfadgadfgdfgadgdfgdfg";
