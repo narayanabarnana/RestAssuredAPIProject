@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="IN1-1024812LT" name="basicsOfRestAPI.GetMessage" tests="1" failures="0" timestamp="18 Feb 2019 04:21:32 GMT" time="4.179" errors="0">
+  <testcase name="getPlaceAPI" time="4.158" classname="basicsOfRestAPI.GetMessage"/>
+</testsuite>
