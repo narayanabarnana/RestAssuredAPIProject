@@ -16,11 +16,11 @@ public class GetLatestTweet {
 	@Test
 	public void getLatestTweet()
 	{
-		
-		String ConsumerKey="1HxV3RV10qvboQ4hkGcdYoCkK";
-		String ConsumerSecret="UvxP0uQS930tncArpncKw4YNSMIKDlrnxMF5GZvu36iVzHABhQ";
-		String Token="421068780-kZgXQr3GImZoEUoUKZiKKXJajKXHxcKhZO77wlAP";
-		String TokenSecret="xrSeD4EhBz5ubmLWKyzVb7t12CkpRQm3wVtKywkMFFcxz";
+		//THese are dummy keys
+		String ConsumerKey="dfdgadgadggdg";
+		String ConsumerSecret="dsfasdfasfafadg";
+		String Token="dfadgadfgdfgadgdfgdfg";
+		String TokenSecret="sdfasdfasdfasdffaf";
 		
 		RestAssured.baseURI="https://api.twitter.com/1.1/statuses";
 		Response res=given().
