@@ -29,7 +29,7 @@ public class CreateIssueInJira {
 				"            \"key\": \"RES\"\r\n" + 
 				"        },\r\n" + 
 				"        \r\n" + 
-				"        \"summary\": \"Rest API Manual First Issue\",\r\n" + 
+				"        \"summary\": \"Rest API Manual First Issue on 20/2/2019\",\r\n" + 
 				"        \"description\": \"first defect creating using postman\",\r\n" + 
 				"        \"issuetype\":{\r\n" + 
 				"        	\"name\": \"Bug\"\r\n" + 

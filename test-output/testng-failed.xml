@@ -3,10 +3,9 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)" preserve-order="false">
     <classes>
-      <class name="basicsOfRestAPI.PostAndDeleteMessage">
+      <class name="basicsOfGoogleRestAPI.TraversingJSON">
         <methods>
-          <include name="PostMessage"/>
-          <include name="getData"/>
+          <include name="extractingNamesAPI"/>
         </methods>
       </class>
     </classes>
